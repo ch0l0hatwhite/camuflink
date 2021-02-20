@@ -21,7 +21,7 @@ print('')
 api = 'http//tinyurl.com/api-create.php?url='
 
 if requests.get('https://google.com'):
-print('')
+
 print('Su conexion es estable')
 
 else:
