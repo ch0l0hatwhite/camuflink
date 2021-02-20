@@ -36,9 +36,8 @@ response =requests.get(api+enlace_a_acortar)
 enlace = response.txt
 
 print('su enlace acortado es:  ')
-print('')
 
-print('')
+
 
 print(enlace)
 
