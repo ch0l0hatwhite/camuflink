@@ -6,13 +6,10 @@ print("""
 .----..---.-..--------..--.--..'  _||  ||__|.-----.|  |--.
 |  __||  _  ||        ||  |  ||   _||  ||  ||     ||    < 
 |____||___._||__|__|__||_____||__|  |__||__||__|__||__|__|
-
-
-        opciones de acortamiento
         
  [0] enlace acortado en TinYurl
 
- [1] enlace acortado en n9.cl
+autor: https://github.com/ch0l0hatwhite
 
  """)
 
